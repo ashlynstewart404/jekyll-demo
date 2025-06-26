@@ -4,6 +4,7 @@ layout: home
 
 I'm Ashlyn Stewart, a specialist in DH and 19C American literature, history, and culture.
 I serve as a Digital Scholarship Specialist at Boston College Libraries, specializing in digital archives and editions. I also lead an interdisciplinary effort to extract and structure data from a series of 19C US almanacs.
+![Cruising Vienna](2022-07-18 14.35.12.jpg)
 
 I hold a PhD in English from the University of Nebraska-Lincoln, where I:
 - earned a certificate in Digital Humanities,
