@@ -2,6 +2,7 @@
 layout: home
 ---
 
+
 ## I'm Ashlyn Stewart, a specialist in DH and 19C American literature, history, and culture.
 I serve as a Digital Scholarship Specialist at Boston College Libraries, specializing in digital archives and editions. I also lead an interdisciplinary effort to extract and structure data from a series of 19C US almanacs.
 
@@ -33,3 +34,5 @@ I serve as a Digital Scholarship Specialist at Boston College Libraries, special
 - Specific digital tools, like ArcGIS Online and StoryMaps, StoryMap GoogleSites, the Adobe Suite, VideoAnt, Oxygen (for TEI encoding), and VSCode.
 - American Literature
 - Composition
+
+### Read my [blog](blog.md)!
